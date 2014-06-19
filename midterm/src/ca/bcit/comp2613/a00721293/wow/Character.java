@@ -37,6 +37,5 @@ public class Character {
 	public void setArmour(int armour) {
 		this.armour = armour;
 	}
-	
-	
+		
 }
